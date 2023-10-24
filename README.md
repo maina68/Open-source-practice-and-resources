@@ -316,7 +316,8 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :hammer_and_wrench: [Full Stack Web Development Curriculum](https://fullstackopen.com/en/#course-contents)
 - :hammer_and_wrench: [Roadmap](https://roadmap.sh/frontend)
 - :hammer_and_wrench: [Full stack Roadmap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
-
+- :books: [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- :books: [Frontend Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 ### HTML
 
 - :file_folder: [official documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
